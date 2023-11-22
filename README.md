@@ -1,4 +1,4 @@
-![image](https://github.com/lgxadventure/LSAMME/assets/98151004/8ea2cacf-b4e4-4cb6-bd8a-3612aba69fc1)# LSAMME
+# LSAMME
 Deep Ensemble Image Classification Via Category Potential Distribution Association Driven
 
 #Experiment
