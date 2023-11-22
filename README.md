@@ -35,6 +35,7 @@ CM on the AID dataset with 50% of the dataset for training and the rest for test
 
  CM on the NWPU-RESISC45 dataset with 10% of the dataset for training and the rest for testing.
  
- ![image](https://github.com/lgxadventure/LSAMME/assets/98151004/e5f73425-a49b-47ac-b990-b440ec689432)
+![image](https://github.com/lgxadventure/LSAMME/assets/98151004/2025c564-b67c-432f-b672-a0b4bb5fc69c)
+
 
  
